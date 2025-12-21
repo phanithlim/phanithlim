@@ -9,10 +9,7 @@
     "Speech-to-Text & Text-to-Speech",
     "Mobile App Development"
   ],
-  "2024_goals": [
-    "Successfully launch the DES GM attendance system",
-    "Contribute to advancing Khmer speech recognition technology"
-  ],
+"fav-color": mlue,
   "hobbies": [
     "Tinkering with side projects",
     "Sharing ideas online",

@@ -1,20 +1,21 @@
-```json
-{
-  "name": "Phanith LIM",
-  "current_job": "Full Stack Developer",
-  "fields_of_interests": [
-    "Machine Learning",
-    "Full Stack Development",
-    "Natural Language Processing (NLP)",
-    "Speech-to-Text & Text-to-Speech",
-    "Mobile App Development"
-  ],
-  "fav-color": "mlue",
-  "hobbies": [
-    "Tinkering with side projects",
-    "Sharing ideas online",
-    "Exploring new technologies",
-    "App Building"
-  ]
-}
+```docker
+# Using a slim python base as an example
+FROM python:3.11-slim
+
+# Metadata labels
+LABEL maintainer="Phanith LIM"
+LABEL current_job="Full Stack Developer"
+LABEL fav_color="mlue"
+LABEL interests="Machine Learning, Full Stack, NLP, STT, TTS, Mobile"
+
+# Environment variables
+ENV USER_NAME="Phanith LIM"
+ENV JOB_TITLE="Full Stack Developer"
+
+# Set working directory
+WORKDIR /app
+
+# (Add your build steps here)
+
+CMD ["echo", "Portfolio container for Phanith LIM is running."]
 ```

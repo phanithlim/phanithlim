@@ -1,3 +1,4 @@
+```json
 {
   "name": "Phanith LIM",
   "current_job": "Full Stack Developer & Machine Learning Intern",
@@ -19,3 +20,4 @@
     "App Building"
   ]
 }
+```

@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Phanith LIM",
-  "current_job": "Full Stack Developer & Machine Learning Intern",
+  "current_job": "Full Stack Developer",
   "fields_of_interests": [
     "Machine Learning",
     "Full Stack Development",

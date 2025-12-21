@@ -1,4 +1,4 @@
-```docker
+```Dockerfile
 # Using a slim python base as an example
 FROM python:3.11-slim
 

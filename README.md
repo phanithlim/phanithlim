@@ -9,7 +9,7 @@
     "Speech-to-Text & Text-to-Speech",
     "Mobile App Development"
   ],
-"fav-color": mlue,
+  "fav-color": "mlue",
   "hobbies": [
     "Tinkering with side projects",
     "Sharing ideas online",

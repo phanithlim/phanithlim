@@ -1,4 +1,2 @@
-# Phanith LIM
-
-Making software.
-Teaching machines to read, listen, and speak.
+<h1 align="center">Phanith LIM</h1>
+<p align="center"><i>I like simple, clean software design.</i></p>
